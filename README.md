@@ -11,10 +11,12 @@ namespace yakhDarchi
             if (T > 100)
             {
                 Console.WriteLine("Steam");
-            }else if (T < 0  )
+            }
+            else if (T < 0  )
             {
                 Console.WriteLine("Ice");
-            }else
+            }
+            else
             {
                 Console.WriteLine("Water");
             }
