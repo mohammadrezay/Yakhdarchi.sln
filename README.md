@@ -1,5 +1,9 @@
 # Yakhdarchi.sln
 
+- **Link:** [Quera Problem #3429](https://quera.org/problemset/3429)
+- **Description:** Given an integer **T** (water temperature in a samovar), print "Steam" if **T** > 100, "Ice" if **T** < 0, or "Water" otherwise.
+- **Solution:** Implemented in C#.
+
 namespace yakhDarchi
 {
     internal class Program
